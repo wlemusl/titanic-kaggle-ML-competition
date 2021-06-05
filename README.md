@@ -9,4 +9,4 @@ Long story short the best model was Random Forest, and the worst was SVM. That i
 1. "best_accuracy_code.ipynb" includes the code of the best Random Forest model, plus all the different scenarios and machine learning models as comments.
 2. "mlp.ipynb" includes the code of the deep learning model Multi-Layer Perceptron.
 
-The link of the competition is here https://www.kaggle.com/c/titanic/overview, where you can also find the training and testing set used for the competition.
+The link of the competition is here https://www.kaggle.com/c/titanic/overview, where you can also find the training and testing set used for the challenge.
