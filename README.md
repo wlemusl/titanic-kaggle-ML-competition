@@ -1,6 +1,6 @@
 # titanic-kaggle-ML-competition
 
-![challenge ranking](https://user-images.githubusercontent.com/55531728/120501823-807c5300-c3f4-11eb-8ca6-6676e4b01aba.png)
+![challenge ranking2](https://user-images.githubusercontent.com/55531728/132274090-bb469616-2afb-422b-873a-9c31d700ab88.png)
 
 In this competition I did a lot of data analysis, data preprocessing, data cleaning, and feature engineering. I did many different scenarios where I tried techniques such as standardize the data, normalize the data, using dummy variables through one-hot encoding, and used a different number of features based on their correlation with the target variable.
 Then I tried many machine learning models such as Random Forest, Logistic Regression, XGBoost, SVM, and Decision tree. Finally, just because of curiosity, I also tried a deep learning model using a MLP.
